@@ -1,3 +1,11 @@
 body{
-    background-color: silver;
+    background-color: beige;
+    margin: 0%;
 }
+.header {
+    padding: 1px;
+    text-align: center;
+    background: black;
+    color: white;
+    font-size: 50px;
+  }
